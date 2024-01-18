@@ -1,6 +1,6 @@
 # Projekts
 
-# Problēma
+## Problēma
 Esmu sācis pats savu biznesu, kurā pārdodu paša dizainētas drēbes. Tā kā tās ražoju un uzglabāju pats savās mājās, man tās pašam ir
 nepieciešams izvedāt līdz pakomātiem, lai iepakojumus nosūtītu pircējiem, tāpēc man ir nepieciešama mašīna. Vienmēr esmu gribējis
 mašīnu "Ford Transit Connect", tāpēc tagad vēlos iegādāties to. Bet man nav laika nepārtraukti iet mājaslapā auto24.lv un skatīties vai ir jauni "Ford Transit Connect" par man atbilstošu cenu un ne pārāk lielu nobrauku.
