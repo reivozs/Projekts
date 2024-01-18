@@ -11,14 +11,16 @@ Izveidot programu, kuru palaižot, nolasa visus pieejamos "Ford Transit Connect"
 un ievietot tos failā "masinas.json", kuru cena ir līdz 7,000 eiro un nobraukums līdz 200,000 km.
 
 # Izmantotās bibliotēkas
-Selenium - izmanto, lai iegūtu datus no tīmekļa un veiktu 'web scraping' <br/>
-webdriver - izmanto, lai automātiski vadītu tīmekli <br/>
-Service - izmanto, lai veiktu tīmekļa programmu testēšanu <br/>
-By - izmanto, lai iegūtu datus no tīmekļa <br/>
-time - izmanto, lai veiktu darbības ar laiku, piemēram, liktu programmai gaidīt noteiktu laika intervālu <br/>
-json - izmanto, lai strādātu ar json tipa failiem <br/>
+Selenium - izmanto, lai iegūtu datus no tīmekļa un veiktu 'web scraping'; <br/>
+webdriver - izmanto, lai automātiski vadītu tīmekli; <br/>
+Service - izmanto, lai veiktu tīmekļa programmu testēšanu; <br/>
+By - izmanto, lai iegūtu datus no tīmekļa; <br/>
+time - izmanto, lai veiktu darbības ar laiku, piemēram, liktu programmai gaidīt noteiktu laika intervālu; <br/>
+json - izmanto, lai strādātu ar json tipa failiem; <br/>
 
 # Izmantotās programmas metodes
 Programmā netiek izmantotas funkcijas, taču programma sākumā nolasa datus no tīmekļa vietnes, atver json failu, iet cauri visiem datiem un pārbauda, vai tie ir attiecīgi pareizi un saglabā tos masīvā. Kad iziets cauri visiem datiem, programma saglabā datus json failā. Programmā
 tiek izmantots Try Except princips, jo lapā, kurā meklēju mašīnas, vairāki elementi nav mašīnu sludinājumi vai arī sludinājumiem nav visa
 nepieciešamā informācija, kas liek programmai nobrukt.
+
+Attēli no programmas procesa: https://failiem.lv/u/gkd6bn5g26
